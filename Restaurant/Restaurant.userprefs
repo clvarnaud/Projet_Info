@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="Restaurant/Restaurant.csproj">
+﻿<Properties StartupItem="Restaurant/ProjetInfo_S2.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Restaurant/Program.cs">
     <Files>
