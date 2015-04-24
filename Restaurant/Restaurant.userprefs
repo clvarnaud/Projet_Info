@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Restaurant/ProjetInfo_S2.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Restaurant/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Restaurant/client.cs">
     <Files>
       <File FileName="Restaurant/Program.cs" Line="1" Column="1" />
+      <File FileName="Restaurant/client.cs" Line="80" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

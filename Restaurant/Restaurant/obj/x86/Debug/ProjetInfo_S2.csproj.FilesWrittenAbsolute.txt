@@ -1,0 +1,5 @@
+/Users/Arnaud/GitHub/Projet_Info/Restaurant/Restaurant/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Arnaud/GitHub/Projet_Info/Restaurant/Restaurant/bin/Debug/Restaurant.exe.mdb
+/Users/Arnaud/GitHub/Projet_Info/Restaurant/Restaurant/bin/Debug/Restaurant.exe
+/Users/Arnaud/GitHub/Projet_Info/Restaurant/Restaurant/obj/x86/Debug/Restaurant.exe
+/Users/Arnaud/GitHub/Projet_Info/Restaurant/Restaurant/obj/x86/Debug/Restaurant.exe.mdb
